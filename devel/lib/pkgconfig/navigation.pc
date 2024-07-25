@@ -1,0 +1,8 @@
+prefix=/home/bobo/ROS_pathplanning/devel
+
+Name: navigation
+Description: Description of navigation
+Version: 0.0.0
+Cflags: -I/home/bobo/ROS_pathplanning/src/navigation/include
+Libs: -L${prefix}/lib -lnavigation
+Requires: roscpp rospy std_msgs nav_msgs message_runtime base_local_planner

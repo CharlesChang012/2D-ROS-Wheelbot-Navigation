@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bobo/ROS_pathplanning/devel/setup.sh

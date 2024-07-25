@@ -1,0 +1,8 @@
+prefix=/home/bobo/ROS_pathplanning/devel
+
+Name: wheelBot_description
+Description: Description of wheelBot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
